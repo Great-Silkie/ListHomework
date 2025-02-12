@@ -1,6 +1,3 @@
-# Казаков Егор
-## Домашнее задание по спискам. Aston Java Developer
-
 ### Написан интерфейс CustomList - аналог интерфейса List
 
 Заданы базовые методы: get, set, add, addAll, remove, equals, hashCode, toString, 
